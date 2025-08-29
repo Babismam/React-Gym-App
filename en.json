@@ -1,0 +1,11 @@
+{
+  "title": "Gym App – Demo",
+  "username": "Username",
+  "password": "Password",
+  "login": "Login",
+  "create_user": "Create User",
+  "login_success": "Login successful",
+  "login_failed": "Login failed",
+  "user_created": "User created successfully",
+  "create_failed": "Create user failed"
+}
